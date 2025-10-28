@@ -3716,3 +3716,10 @@
   }
 }
 /*# sourceMappingURL=bootstrap-grid.css.map */
+
+@media screen and (max-width:500px) {
+  .copyright p{
+    float: none !important;
+    clear: both;
+  }
+}
